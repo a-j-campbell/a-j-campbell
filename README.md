@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-j-campbell
 - 👀 I’m interested in building technology that actually works for us
-- 🌱 I’m currently taking a break from full time tecnhology work in the solar industry
+- 🌱 I’m currently taking a break from full time technology work in the solar industry but am always interested in potential opportunities for growth!
 - Contact me at:
 - 📫 acamps3196@gmail.com
 
