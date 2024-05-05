@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @a-j-campbell
-- 👀 I’m interested in geospatial tech, climate change, cyber security
-- 🌱 I’m currently learning serverless python development on aws
+- 👀 I’m interested in building technology that actually works for us
+- 🌱 I’m currently taking a break from full time tecnhology work in the solar industry
+- Contact me at:
 - 📫 acamps3196@gmail.com
 
 <!---
